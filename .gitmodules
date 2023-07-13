@@ -10,3 +10,6 @@
 [submodule "react-quiz"]
 	path = react-quiz
 	url = https://github.com/BenMradB/react-quiz.git
+[submodule "Youtube_Clone"]
+	path = Youtube_Clone
+	url = https://github.com/BenMradB/Youtube_Clone.git
