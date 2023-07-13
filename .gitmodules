@@ -7,3 +7,6 @@
 [submodule "movies"]
 	path = movies
 	url = https://github.com/BenMradB/movies.git
+[submodule "react-quiz"]
+	path = react-quiz
+	url = https://github.com/BenMradB/react-quiz.git
