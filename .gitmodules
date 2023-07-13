@@ -1,0 +1,3 @@
+[submodule "travel-list"]
+	path = travel-list
+	url = https://github.com/BenMradB/travel-list.git
