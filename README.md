@@ -18,6 +18,8 @@ Welcome to the React Projects Repository! This repository is a collection of pro
 
 7. **Making HTTP Requests with Axios**: Learn how to make HTTP requests in React using the Axios library, enabling you to interact with APIs and fetch data dynamically.
 
+8. **Creating Custom Hooks**: Explore the process of creating custom hooks in React to encapsulate reusable logic and share it across multiple components.
+
 ... (Add more projects as necessary)
 
 ## How to Navigate and Explore
@@ -27,5 +29,3 @@ Each project is contained within its own subdirectory in this repository. To exp
 Feel free to explore multiple projects and delve into different React topics. If you have any questions or feedback, please create an issue or reach out to me.
 
 Happy coding!
-
-![React Logo](react-logo.png)
