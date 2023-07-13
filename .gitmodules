@@ -1,3 +1,6 @@
 [submodule "travel-list"]
 	path = travel-list
 	url = https://github.com/BenMradB/travel-list.git
+[submodule "eatn-split"]
+	path = eatn-split
+	url = https://github.com/BenMradB/eatn-split.git
